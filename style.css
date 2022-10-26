@@ -341,6 +341,15 @@ p {
 #services .n{
 	background-image: url(./img/gauntlet.webp);
 }
+#services .o{
+	background-image: url(./img/nickfury.png);
+}
+#services .p{
+	background-image: url(./img/loki.jpeg);
+}
+#services .q{
+	background-image: url(./img/antman.png);
+}
 
 #services .service-item::after {
 	content: '';
