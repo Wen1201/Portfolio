@@ -338,7 +338,9 @@ p {
 #services .m{
 	background-image: url(./img/starlord.jpeg);
 }
-
+#services .n{
+	background-image: url(./img/gauntlet.webp);
+}
 
 #services .service-item::after {
 	content: '';
